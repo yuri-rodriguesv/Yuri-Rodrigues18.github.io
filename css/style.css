@@ -1,0 +1,75 @@
+@font-face {
+    font-family: 'Right';
+    src: url('/font/Righteous-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    background-color:#003459;
+    border-radius: 10px;
+    min-width: 320px;
+    max-width: 1700px;
+    padding: 20;
+    margin: auto;
+    font-size: 25px;
+    color: white;
+    font-family:Right; 
+}
+
+ul{
+    margin:0%;
+    padding: 0%;
+    list-style: none;
+    display:flex;
+    justify-content:center;
+    
+}
+
+li{
+    margin:0%;
+    padding: 0%;
+    list-style: none;
+    
+}
+
+img{
+
+    margin:0%;
+    padding: 0%;
+}
+
+p{
+    margin:0%;
+    padding: 0%;
+    text-align: center;
+}
+a{
+    margin:0%;
+    padding: 0%;
+    color: white;
+}
+
+h1{
+    margin:0%;
+    padding: 0%;
+    text-align: center; 
+}
+h2{
+    margin:0%;
+    padding: 0%;
+    text-align:center;
+}
+p{
+    margin:0%;
+    padding: 0%;
+    font-size: 30px;
+    background-color: #00171F;
+} 
+.main{
+    display: flex;
+    background-color: #00171F;
+    margin:0%;
+    padding: 0.4%;
+    justify-content: space-evenly;
+}
